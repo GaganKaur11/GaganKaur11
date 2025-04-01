@@ -2,6 +2,7 @@ Gagandeep Kaur - Business Analyst & Data Enthusiast 👩‍💻
 Welcome to my GitHub! I'm a Business Analyst with expertise in data analytics, ERP systems, and process optimization. With a solid foundation in Python, SQL, Tableau, and SAP S/4 HANA, I focus on designing actionable solutions to drive business efficiency. Below you'll find more about my skills, work experience, and projects.
 
 📊 Skills & Expertise
+
 Programming & Tools:
 SQL, Python, Tableau, Power BI, SAP S/4 HANA, Dash, Plotly
 
