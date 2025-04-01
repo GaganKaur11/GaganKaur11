@@ -1,5 +1,3 @@
-# Creating the raw markdown file content for GitHub profile
-markdown_content = """
 # **Gagandeep Kaur - Business Analyst & Data Enthusiast 👩‍💻**
 
 Welcome to my GitHub! I'm a Business Analyst with expertise in data analytics, ERP systems, and process optimization. With a solid foundation in Python, SQL, Tableau, and SAP S/4 HANA, I focus on designing actionable solutions to drive business efficiency. Below you'll find more about my skills, work experience, and projects.
@@ -52,10 +50,3 @@ Feel free to reach out for collaboration or inquiries:
 - **LinkedIn:** [linkedin.com/in/gagandeepkaur2008](https://linkedin.com/in/gagandeepkaur2008)  
 - **GitHub:** [github.com/GaganKaur11](https://github.com/GaganKaur11)
 """
-
-# Saving content to a .md file
-file_path = '/mnt/data/gagandeep_kaur_github_profile.md'
-with open(file_path, 'w') as file:
-    file.write(markdown_content)
-
-file_path
