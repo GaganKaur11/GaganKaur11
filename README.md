@@ -1,54 +1,61 @@
-Gagandeep Kaur - Business Analyst & Data Enthusiast 👩‍💻
+# Creating the raw markdown file content for GitHub profile
+markdown_content = """
+# **Gagandeep Kaur - Business Analyst & Data Enthusiast 👩‍💻**
+
 Welcome to my GitHub! I'm a Business Analyst with expertise in data analytics, ERP systems, and process optimization. With a solid foundation in Python, SQL, Tableau, and SAP S/4 HANA, I focus on designing actionable solutions to drive business efficiency. Below you'll find more about my skills, work experience, and projects.
 
-📊 Skills & Expertise
+## **📊 Skills & Expertise**
 
-Programming & Tools:
+**Programming & Tools:**  
 SQL, Python, Tableau, Power BI, SAP S/4 HANA, Dash, Plotly
 
-Business Analysis & Optimization:
+**Business Analysis & Optimization:**  
 Process Improvement, Data Analysis, Data Visualization, ERP Systems, Dashboards
 
-Testing & Automation:
+**Testing & Automation:**  
 UAT, API Testing, Automation (SOAP, RESTful), Test Strategy
 
-Project Management:
+**Project Management:**  
 Agile, Scrum, JIRA, Confluence, Change Management
 
-🎓 Education
+## **🎓 Education**
 
-Purdue University, Indiana
-Master’s in Computer Science (GPA: 4/4) 🎓
+**Purdue University, Indiana**  
+Master’s in Computer Science (GPA: 4/4) 🎓  
 Specialized in Software Engineering, Testing, Project Management, Business Leadership
 
-🏅 Certifications
-Google Project Management Certification
+## **🏅 Certifications**
 
-ISTQB CTFL Certified (Software Testing)
+- Google Project Management Certification  
+- ISTQB CTFL Certified (Software Testing)  
+- Accenture Celebrates Excellence (ACE) Award (Twice)
 
-Accenture Celebrates Excellence (ACE) Award (Twice)
+## **💼 Professional Experience**
 
-💼 Professional Experience
-Rathburn Tool & Manufacturing - Software Business Analyst (Feb 2024 – May 2024)
+**Rathburn Tool & Manufacturing** - Software Business Analyst (Feb 2024 – May 2024)
 
-SEAVAC (USA) L.L.C. - Business Data Analyst (Oct 2023 – Dec 2023)
+**SEAVAC (USA) L.L.C.** - Business Data Analyst (Oct 2023 – Dec 2023)
 
-Accenture - Software Analyst (Nov 2020 – Jul 2023)
+**Accenture** - Software Analyst (Nov 2020 – Jul 2023)
 
-🚀 Projects
+## **🚀 Projects**
 
-COVID Data Exploration 🌍
+- **COVID Data Exploration** 🌍  
+- **Revenue Cycle Optimization Dashboard** 💵  
+- **Career Recommendation System** 💼
 
-Revenue Cycle Optimization Dashboard 💵
-
-Career Recommendation System 💼
-
-📬 Let’s Connect!
+## **📬 Let’s Connect!**
 
 Feel free to reach out for collaboration or inquiries:
 
-Email: gagankaur1808@gmail.com
+- **Email:** [gagankaur1808@gmail.com](mailto:gagankaur1808@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/gagandeepkaur2008](https://linkedin.com/in/gagandeepkaur2008)  
+- **GitHub:** [github.com/GaganKaur11](https://github.com/GaganKaur11)
+"""
 
-LinkedIn: https://linkedin.com/in/gagandeepkaur2008
+# Saving content to a .md file
+file_path = '/mnt/data/gagandeep_kaur_github_profile.md'
+with open(file_path, 'w') as file:
+    file.write(markdown_content)
 
-GitHub: https://github.com/GaganKaur11
+file_path
