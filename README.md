@@ -23,15 +23,15 @@ Specialized in Software Engineering, Testing, Project Management, Business Leade
 
 ## **💼 Professional Experience**
 
-- ## **Rathburn Tool & Manufacturing** - *Software Business Analyst (Feb 2024 – May 2024)*  
-- ## **SEAVAC (USA) L.L.C.** - *Business Data Analyst (Oct 2023 – Dec 2023)*  
-- ## **Accenture** - *Software Analyst (Nov 2020 – Jul 2023)*  
+- **Rathburn Tool & Manufacturing** - Software Business Analyst (Feb 2024 – May 2024)
+- **SEAVAC (USA) L.L.C.** - Business Data Analyst (Oct 2023 – Dec 2023)
+- **Accenture** - Software Analyst (Nov 2020 – Jul 2023)
 
 ## **🚀 Projects**
 
-- ## **COVID Data Exploration** 🌍  
-- ## **Revenue Cycle Optimization Dashboard** 💵  
-- ## **Career Recommendation System** 💼  
+- **COVID Data Exploration** 🌍  
+- **Revenue Cycle Optimization Dashboard** 💵  
+- **Career Recommendation System** 💼
 
 ## **📬 Let’s Connect!**
 
