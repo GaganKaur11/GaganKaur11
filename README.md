@@ -4,17 +4,13 @@ Welcome to my GitHub! I'm a Business Analyst with expertise in data analytics, E
 
 ## **📊 Skills & Expertise**
 
-**Programming & Tools:**  
-SQL, Python, Tableau, Power BI, SAP S/4 HANA, Dash, Plotly
+**Programming & Tools:**  SQL, Python, Tableau, Power BI, SAP S/4 HANA, Dash, Plotly
 
-**Business Analysis & Optimization:**  
-Process Improvement, Data Analysis, Data Visualization, ERP Systems, Dashboards
+**Business Analysis & Optimization:**  Process Improvement, Data Analysis, Data Visualization, ERP Systems, Dashboards
 
-**Testing & Automation:**  
-UAT, API Testing, Automation (SOAP, RESTful), Test Strategy
+**Testing & Automation:**  UAT, API Testing, Automation (SOAP, RESTful), Test Strategy
 
-**Project Management:**  
-Agile, Scrum, JIRA, Confluence, Change Management
+**Project Management:**  Agile, Scrum, JIRA, Confluence, Change Management
 
 ## **🎓 Education**
 
